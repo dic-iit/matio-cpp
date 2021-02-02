@@ -1,0 +1,4 @@
+<map id="matioCpp::Element&lt; T &gt;" name="matioCpp::Element&lt; T &gt;">
+<area shape="rect" id="node1" title="Element allows having a 1x1 variable (like double, int,..) castable to a primitive type." alt="" coords="5,80,191,107"/>
+<area shape="rect" id="node2" href="$classmatioCpp_1_1Variable.html" title="The matioCpp::Variable class is the equivalent of matvar_t in matio." alt="" coords="25,5,171,32"/>
+</map>

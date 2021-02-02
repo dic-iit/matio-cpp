@@ -1,0 +1,25 @@
+var classmatioCpp_1_1File =
+[
+    [ "Impl", "classmatioCpp_1_1File_1_1Impl.html", "classmatioCpp_1_1File_1_1Impl" ],
+    [ "File", "classmatioCpp_1_1File.html#a60426046fcd32306eeb5468fa55b4d65", null ],
+    [ "File", "classmatioCpp_1_1File.html#a0a46cc7c06a8ae9f4e5b921f1ef3ac86", null ],
+    [ "File", "classmatioCpp_1_1File.html#aa638303f1fb8c71845f96ce02ef4a7eb", null ],
+    [ "File", "classmatioCpp_1_1File.html#aa8429d07a892419da58b3ca74d1770c7", null ],
+    [ "~File", "classmatioCpp_1_1File.html#a4256435956a8261ce164cc00d05149c5", null ],
+    [ "close", "classmatioCpp_1_1File.html#a0a0a81ed6ef559f256b89efb3ea20a7b", null ],
+    [ "Create", "classmatioCpp_1_1File.html#a96a4276343d82074d92b61e1a1d967d2", null ],
+    [ "Delete", "classmatioCpp_1_1File.html#a7625e6363c0cca84c5c1892cf1060c45", null ],
+    [ "Exists", "classmatioCpp_1_1File.html#a205bbe4db901d66651cdb721814e6a21", null ],
+    [ "header", "classmatioCpp_1_1File.html#a3c12c4bcb978e7eb903c636c9f71f80d", null ],
+    [ "isOpen", "classmatioCpp_1_1File.html#a2f0652e43646b18c2ec99043c43de7e6", null ],
+    [ "mode", "classmatioCpp_1_1File.html#a258818cf214f98ac25064764e303272d", null ],
+    [ "name", "classmatioCpp_1_1File.html#a7ffff65c86773937c2c7104614668354", null ],
+    [ "open", "classmatioCpp_1_1File.html#a30485cdccf4d882941d940e2d647b7d8", null ],
+    [ "operator=", "classmatioCpp_1_1File.html#a2f739d2be6c7cc1799223a8fa62888ac", null ],
+    [ "operator=", "classmatioCpp_1_1File.html#a1686076beb8dc6b08752f33a4dfe9c25", null ],
+    [ "read", "classmatioCpp_1_1File.html#a8050c9ef4d8b315404b5a03e2a38fb6b", null ],
+    [ "variableNames", "classmatioCpp_1_1File.html#a484e5f4f66f8a1a457d66ad629a63c67", null ],
+    [ "version", "classmatioCpp_1_1File.html#a01b22aa8f6aed386b280e408aa85ec63", null ],
+    [ "write", "classmatioCpp_1_1File.html#a9f7227cc128a14ee4fca1e4e2111bd4f", null ],
+    [ "write", "classmatioCpp_1_1File.html#a928e4646986e5dcadbe0c67bbecb66cc", null ]
+];

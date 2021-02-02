@@ -1,0 +1,7 @@
+<map id="matioCpp::Variable" name="matioCpp::Variable">
+<area shape="rect" id="node1" title="The matioCpp::Variable class is the equivalent of matvar_t in matio." alt="" coords="293,5,439,32"/>
+<area shape="rect" id="node2" href="$classmatioCpp_1_1CellArray.html" title="CellArray is a particular type of Variable specialized for cell arrays." alt="" coords="5,80,159,107"/>
+<area shape="rect" id="node3" href="$classmatioCpp_1_1Element.html" title="Element allows having a 1x1 variable (like double, int,..) castable to a primitive type." alt="" coords="183,80,368,107"/>
+<area shape="rect" id="node4" href="$classmatioCpp_1_1Struct.html" title="Struct is a particular type of Variable specialized for structs." alt="" coords="393,80,523,107"/>
+<area shape="rect" id="node5" href="$classmatioCpp_1_1StructArray.html" title="StructArray is a particular type of Variable specialized for array of structs." alt="" coords="548,80,715,107"/>
+</map>
